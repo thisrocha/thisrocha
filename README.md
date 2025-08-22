@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 
 - 🔭 No momento, estou desenvolvendo pequenos projetos em **Java** para praticar o que aprendo.
-- 📚 Estudo diariamente lógica de programação, estrutura de dados e orientação a objetos.
+- 📚 Estudo diariamente lógica de programação e orientação a objetos.
   
 ---
 
