@@ -23,6 +23,7 @@
 ## 📂 Projetos em destaque
 
 - [Agenda Telefônica em Java](https://github.com/thisrocha/agenda-telefonica.git) – um projeto simples de gerenciamento de contatos no console.
+- [Dashboard em Power BI](https://github.com/thisrocha/Dashboard-gatito.git) – Dashboard de um petshop fictício.
 
 ---
 
